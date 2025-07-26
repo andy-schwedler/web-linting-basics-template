@@ -16,15 +16,15 @@
     "url": "git+https://github.com/neuefische/web-linting-basics-template.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/neuefische/web-linting-basics-template/issues"
   },
   "homepage": "https://github.com/neuefische/web-linting-basics-template#readme",
   "devDependencies": {
-    "eslint": "^8.16.0",
-    "htmlhint": "^1.1.4",
-    "prettier": "^2.6.2"
+    "eslint": "^8",
+    "htmlhint": "^1",
+    "prettier": "^2"
   }
 }
